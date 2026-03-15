@@ -17,10 +17,10 @@
 ###
 
 <p align="left">
-  🔭 <b>Currently focusing on:</b> C++ development, the Qt framework, and contributing to open-source game development tools like <b>Tiled</b>.<br>
+  🔭 <b>Currently focusing on:</b> C++ development, the Qt framework, and contributing to open-source game development tools.<br>
   💻 <b>Interests:</b> Game Engine Architecture, Performance Optimization, and Competitive Programming (DSA).<br>
   📱 <b>Also experienced in:</b> Cross-platform mobile development using Flutter.<br>
-  🎯 <b>2026 Goals:</b> Become a Google Summer of Code (GSoC) contributor and master advanced C++ concepts.
+  🎯 <b>2026 Goals:</b> Master advanced C++ concepts.
 </p>
 
 ###
@@ -47,16 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" title="Java" />
 </div>
 
-###
 
-<h2 align="left">Open Source Contributions</h2>
 
-###
 
-<p align="left">
-  <i>(Add links to your actual merged or open PRs here. Mentors look for this first!)</i><br>
-  <ul>
-    <li><a href="#"><b>Tiled:</b> Resolved C++ compilation errors and submitted bug fixes</a></li>
-    <li><a href="#"><b>OpenCV:</b> Minor bug fixes and improvements</a></li>
-  </ul>
-</p>
