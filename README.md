@@ -1,44 +1,62 @@
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=saurabh-zz007.saurabh-zz007&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=saurabh-zz007.saurabh-zz007&" alt="visitor badge" />
 </div>
 
 ###
 
-<h1 align="left">Hey 👋</h1>
+<h1 align="left">Hey 👋, I'm Saurabh Vishwakarma</h1>
 
 ###
 
-<p align="left">My name is Saurabh Vishwakarma and I'm a Pre Final year student, from Madan Mohan Malviya University of Technology.</p>
+<p align="left">I'm a Pre-Final year Mechanical Engineering student at Madan Mohan Malviya University of Technology, with a strong passion for software engineering, open-source development, and game engine architecture.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
-<p align="left">📚 I'm currently learning cross platform development with flutter.<br>🎯 Goals: Simply, Getting better.</p>
+<p align="left">
+  🔭 <b>Currently focusing on:</b> C++ development, the Qt framework, and contributing to open-source game development tools like <b>Tiled</b>.<br>
+  💻 <b>Interests:</b> Game Engine Architecture, Performance Optimization, and Competitive Programming (DSA).<br>
+  📱 <b>Also experienced in:</b> Cross-platform mobile development using Flutter.<br>
+  🎯 <b>2026 Goals:</b> Become a Google Summer of Code (GSoC) contributor and master advanced C++ concepts.
+</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">My Tech Stack</h2>
 
 ###
 
+<h3 align="left">Systems & Game Tooling</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" title="C++" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo" title="Qt Framework" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" title="Git" />
+</div>
+
+<h3 align="left">Mobile & Other</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" title="Flutter" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" title="Dart" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" title="Java" />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabh-zz007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=saurabh-zz007&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<h2 align="left">Open Source Contributions</h2>
 
 ###
+
+<p align="left">
+  <i>(Add links to your actual merged or open PRs here. Mentors look for this first!)</i><br>
+  <ul>
+    <li><a href="#"><b>Tiled:</b> Resolved C++ compilation errors and submitted bug fixes</a></li>
+    <li><a href="#"><b>OpenCV:</b> Minor bug fixes and improvements</a></li>
+  </ul>
+</p>
