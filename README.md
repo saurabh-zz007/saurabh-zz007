@@ -51,13 +51,6 @@
 
 ---
 
-## 📈 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabh-zz007&show_icons=true&theme=tokyonight" alt="Saurabh's Stats" />
-</p>
-
----
-
 ## 🤝 Let's Build Something Great
 - 📧 **Email:** [saurabh.vishw.007@gmail.com](mailto:saurabh.vishw.007@gmail.com) 
 - 💼 **LinkedIn:** [saurabh-zz007](https://linkedin.com/in/saurabh-zz007) 
