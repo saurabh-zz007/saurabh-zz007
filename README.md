@@ -55,6 +55,6 @@
 - 📧 **Email:** [saurabh.vishw.007@gmail.com](mailto:saurabh.vishw.007@gmail.com) 
 - 💼 **LinkedIn:** [saurabh-zz007](https://linkedin.com/in/saurabh-zz007) 
 - 🐦 **GitHub:** [saurabh-zz007](https://github.com/saurabh-zz007)
-- 👩🏻‍💻 **Leetcode:** [saurabh_vishwakarma_007]([https://github.com/saurabh-zz007](https://leetcode.com/u/saurabh_vishwakarma_007/))
+- 👩🏻‍💻 **Leetcode:** [saurabh_vishwakarma_007](https://leetcode.com/u/saurabh_vishwakarma_007/)
 
-*"Optimizing for high-performance and human-readable output, one commit at a time."*
+*"Optimizing for high-performance, one commit at a time."*
